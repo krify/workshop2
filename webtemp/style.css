@@ -73,13 +73,14 @@ a:hover {
 	height: 150px;
 	margin: 0 auto;
 	padding: 0px 0px;
+       
 }
 
 /* Logo */
 
 #logo {
 	float: left;
-	width: 300px;
+	
 	margin: 0;
 	padding: 0;
 	color: #FFFFFF;
@@ -92,6 +93,7 @@ a:hover {
 	line-height: 120px;
 	letter-spacing: -2px;
 	font-size: 3em;
+       
 }
 
 #logo h1 a {
@@ -201,7 +203,10 @@ a:hover {
 	font-weight: 300;
 	color: #12212F;
 	border: none;
+        
 }
+
+
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
@@ -465,7 +470,7 @@ a:hover {
 	margin: 0 auto;
 	padding: 50px 0 15px 0;
 	font-family: 'Abel', sans-serif;
-	background: #D6D6D6 url(images/img01.jpg) repeat;
+	background: #D6D6D6 url(images/img05.png) repeat;
 }
 
 #footer p {

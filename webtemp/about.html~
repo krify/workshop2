@@ -23,7 +23,7 @@
 	<div id="header-wrapper">
 		<div id="header" class="container">
 			<div id="logo">
-				<h1><a href="#">Colore Giallo</a></h1>
+				<h1><a href="#">Krify Software Technologies</a></h1>
 			</div>
 			<div id="menu">
 				<ul>
@@ -42,18 +42,34 @@
 	<div id="page">
 		<div id="content">
 			<div class="post">
-				<h2 class="title"><a href="#">About Us </a></h2>
+                                    <h2 class="title"><a href="#">About Us </a></h2>
 				<div class="entry">
-					<p>This is <strong>ColoreGiallo</strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.   The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
+                                    <p><strong>Krify</strong> is a multi-national technology innovations company specialised in crafting world class Mobile Apps, Web Applications.
+                                      We built many world class mobile applications particularly in iPhone, Android and Wearable platforms.
+                                        Find our innovative works and services in this
+                                        <a href="https://krify.co/our-products/" rel="nofollow">link</a>. 
+                                           Krify extends services into Digital Marketing, Quality Testing, Content, PR, SEO and many more. </p>
 					<p class="links"><a href="#" class="more">Read More</a><a href="#" title="b0x" class="comments">Comments</a></p>
-				</div>
+				
+                                        
+                                
+                                </div>
+                                <h3 >Our Core Competency</h3>
+                                <ul class="bulets">
+                                    <li><a href="https://krify.co/android-app-development/" >Android App Development</a></li>
+                                <li><a href="https://krify.co/iphone-app-development/">iPhone App Development</a></li>
+                                <li><a href="https://krify.co/ipad-apps-development/">iPad App Development</a></li>
+                                <li><a href="https://krify.co/blackberry-apps-development/">Blackberry Apps Development</a></li>
+                                <li><a href="https://krify.co/crossplatform-apps-development/">Crossplatform Apps Development</a></li>
+                                <li><a href="https://krify.co/responsive-website-development/">Responsive Website Development</a></li>
+                                </ul>
 			</div>
 		</div>
 		<!-- end #content -->
 		<div id="sidebar">
 			<ul>
 				<li>
-					<h2>Categories</h2>
+					<h2>Blog</h2>
 					<ul>
 						<li><a href="#">Aliquam libero</a></li>
 						<li><a href="#">Consectetuer adipiscing elit</a></li>
@@ -105,8 +121,9 @@
 	</div>
 </div>
 <div id="footer">
-	<p>&copy; Untitled. All rights reserved. Images by <a href="http://fotogrph.com/">Fotogrph</a>. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<p>&copy; KRIFY. All rights reserved. Design by <a href="https://plus.google.com/111642844494451753755" rel="nofollow">Veerendra Reddy</a>.</p>
 </div>
 <!-- end #footer -->
 </body>
 </html>
+

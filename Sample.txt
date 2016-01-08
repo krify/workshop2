@@ -10,4 +10,7 @@ Error:Execution failed for task ':app:transformResourcesWithMergeJavaResForDebug
 
 
 
+
 111111111111111111112222222222222222222222233333333333333333333aaaaaaabbbbbcccccccc
+xxxxxxyyyyyyyyyzzzzzzzzzz
+

@@ -1,0 +1,9 @@
+testing the un merge concept
+
+
+
+
+Error:Execution failed for task ':app:transformResourcesWithMergeJavaResForDebug'.
+> com.android.build.api.transform.TransformException: com.android.builder.packaging.DuplicateFileException: Duplicate files copied in APK META-INF/NOTICE
+  	File1: /home/srinivas/srinivas/android/MVP/OnScreen/app/libs/httpclient-4.3.6.jar
+  	File2: /home/srinivas/srinivas/android/MVP/OnScreen/app/libs/httpcore-4.3.3.jar
